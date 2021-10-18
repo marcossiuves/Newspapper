@@ -12,16 +12,20 @@ h1{
     text-align: center;
     font-size: 10em;
 }
-#navTitle{
+
+.navTitle{
     font-family: var(--title-font);
 }
 
-#hora{
-    align-self: center;
+.hora{
+    color: #777;
+    position: relative;
+    display: flex;
     float: right;
-    align-content: center;
-    align-items: center;
-    
+    align-items: flex-end;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
 }
 
 p{
@@ -68,7 +72,7 @@ hr {
     border-width: 1px;
   }
 
-#LivrosSection img{
+.LivrosSection img{
     width: 250px;
     height:250px;
 }
