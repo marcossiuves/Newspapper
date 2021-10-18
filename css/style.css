@@ -1,0 +1,74 @@
+@font-face {
+    font-family: Chomsky;
+    src: url("../resources/fonts/Chomsky/Chomsky.woff");
+}
+
+main{
+    background-color: var(--background-color);
+}
+
+h1{
+    font-family: var(--title-font);
+    text-align: center;
+    font-size: 10em;
+}
+#navTitle{
+    font-family: var(--title-font);
+}
+
+#hora{
+    align-self: center;
+    float: right;
+    align-content: center;
+    align-items: center;
+    
+}
+
+p{
+    font-family: var(--main-font);
+}
+.pageContent{
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.pageContent img{
+    width: 400px;
+    height:400px;
+}
+
+h2{
+    font-family: var(--title-font);
+    text-align: center;
+    font-size: 4em;
+
+}
+h3{
+    font-family: var(--title-font);
+    text-align: center;
+    font-size: 3em;
+
+}
+
+h4{
+    font-family: var(--title-font);
+    text-align: left;
+    font-size: 2em;
+
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
+
+#LivrosSection img{
+    width: 250px;
+    height:250px;
+}

@@ -1,0 +1,12 @@
+:root{
+    
+    font-size: 62.5%;
+
+    --title-font: Chomsky, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    --main-font: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    /* colors */
+   --background-color: #f0f0f0;
+
+
+}
