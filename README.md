@@ -1,2 +1,2 @@
 # Newspapper
-Trabalho que fiz para a matéria de DAW
+Trabalho de desenvolvimento web
